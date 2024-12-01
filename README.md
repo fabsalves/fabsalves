@@ -102,7 +102,7 @@
       <th>Uso (%)</th>
     </tr>
     <tr>
-      <td>TypeScript</td>
+      <td>Ruby</td>
       <td>40%</td>
     </tr>
     <tr>
@@ -110,7 +110,7 @@
       <td>30%</td>
     </tr>
     <tr>
-      <td>Ruby</td>
+      <td>TypeScript</td>
       <td>20%</td>
     </tr>
     <tr>

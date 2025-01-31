@@ -12,7 +12,7 @@
 
 <!-- Current Work -->
 <p align="left">
-  🔭 I’m currently working on <a href="https://mnv.ai/">MNV</a><br>
+  🔭 I’m currently Co-Founder and AI Specialist on <a href="https://mnv.ai/">MNV</a><br>
   🌱 I’m currently learning <strong>AI as a Service</strong><br>
   🎓 Offering mentorship to help you master Rails, Node.js, and TypeScript
 </p>
